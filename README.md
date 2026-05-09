@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC%20Architecture-2C3E50?style=for-the-badge"/>
-</p>
   <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-1f1f1f?style=for-the-badge"/>
 
