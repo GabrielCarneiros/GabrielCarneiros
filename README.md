@@ -3,17 +3,17 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Student-Informática-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-1f1f1f?style=for-the-badge"/>
 </p>
 
 ---
 
 ### 💻 About Me
 
-Sou desenvolvedor backend em formação, focado em **Java + Spring Boot**, com interesse em arquitetura de **microserviços**, APIs REST e sistemas escaláveis.
+Sou desenvolvedor backend em formação, focado em **Java + Spring Boot**, com forte interesse em **arquitetura de microserviços**, APIs REST e sistemas escaláveis.
 
-Estou construindo projetos reais para evoluir na prática e conquistar meu primeiro estágio em tecnologia.
+Estou construindo projetos reais para evoluir minhas habilidades e conquistar meu primeiro estágio em tecnologia.
 
 ---
 
@@ -27,31 +27,43 @@ Estou construindo projetos reais para evoluir na prática e conquistar meu prime
 - 🧩 APIs REST  
 - 🐳 Docker (em aprendizado)  
 - ⚙️ Git & GitHub  
+- 🧱 Microservices Architecture  
 
 ---
 
-### 📌 Projetos
+### 📌 Projects
 
-**📦 E-commerce Backend (Microserviços)**  
-Sistema com autenticação, produtos e estrutura escalável.
+**🗓️ Task Scheduler System (Microservices Architecture)**  
+Sistema de agendamento de tarefas baseado em microserviços, com separação de responsabilidades entre serviços, comunicação entre APIs e foco em escalabilidade.
 
-**🤖 Chatbot Delivery**  
-Sistema de pedidos com Flask + Twilio + SQLite integrado ao WhatsApp.
+- Separação por serviços independentes  
+- Comunicação via APIs REST  
+- Estrutura preparada para escalabilidade  
+- Foco em organização e boas práticas de arquitetura  
 
-**🏨 Sistema de Hotel (Java MVC)**  
-Gerenciamento de hóspedes, quartos e reservas com arquitetura organizada.
+---
 
-**📚 Sistema de Biblioteca (Java OOP)**  
-Projeto acadêmico focado em orientação a objetos e CLI.
+**🤖 Chatbot Delivery System**  
+Sistema completo de pedidos integrado ao WhatsApp usando Flask, Twilio e SQLite.
+
+---
+
+**🏨 Hotel Management System (Java MVC)**  
+Sistema de gerenciamento de hóspedes, quartos e reservas com arquitetura MVC.
+
+---
+
+**📚 Library System (Java OOP)**  
+Projeto acadêmico focado em orientação a objetos e lógica de sistemas.
 
 ---
 
 ### 🎯 Goals
 
-- Conseguir meu primeiro estágio como backend developer  
-- Evoluir em microserviços e arquitetura de sistemas  
-- Melhorar boas práticas (Clean Code, SOLID)  
-- Construir projetos reais e escaláveis  
+- Conquistar meu primeiro estágio como backend developer  
+- Aprofundar em microserviços e arquitetura distribuída  
+- Melhorar práticas de código limpo (SOLID, Clean Code)  
+- Construir sistemas reais e escaláveis  
 
 ---
 
@@ -63,19 +75,5 @@ Projeto acadêmico focado em orientação a objetos e CLI.
 ---
 
 <p align="center">
-  💡 Always learning, always improving.
+💡 Always learning, always improving.
 </p>
-<!--
-**GabrielCarneiros/GabrielCarneiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
