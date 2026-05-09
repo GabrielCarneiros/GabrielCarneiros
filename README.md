@@ -1,5 +1,13 @@
 ## Hi there 👋 I'm Gabriel Carneiro
+---
+### 💻 About Me
 
+Sou desenvolvedor backend em formação, focado em **Java + Spring Boot**, com forte interesse em **arquitetura de microserviços**, APIs REST e sistemas escaláveis.
+
+Estou construindo projetos reais para evoluir minhas habilidades e conquistar meu primeiro estágio em tecnologia.
+
+---
+---
 <p align="left">
   <a href="www.linkedin.com/in/gabriel-carneiro-ba1a05288">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,14 +26,6 @@ Tecnologias
 
 ### 💻 Back-end
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,postman,swagger)](https://skillicons.dev)
----
-
-### 💻 About Me
-
-Sou desenvolvedor backend em formação, focado em **Java + Spring Boot**, com forte interesse em **arquitetura de microserviços**, APIs REST e sistemas escaláveis.
-
-Estou construindo projetos reais para evoluir minhas habilidades e conquistar meu primeiro estágio em tecnologia.
-
 ---
 
 ### 🚀 Tech Stack
