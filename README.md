@@ -41,20 +41,6 @@ Sistema de agendamento de tarefas baseado em microserviços, com separação de 
 - Estrutura preparada para escalabilidade  
 - Foco em organização e boas práticas de arquitetura  
 
----
-
-**🤖 Chatbot Delivery System**  
-Sistema completo de pedidos integrado ao WhatsApp usando Flask, Twilio e SQLite.
-
----
-
-**🏨 Hotel Management System (Java MVC)**  
-Sistema de gerenciamento de hóspedes, quartos e reservas com arquitetura MVC.
-
----
-
-**📚 Library System (Java OOP)**  
-Projeto acadêmico focado em orientação a objetos e lógica de sistemas.
 
 ---
 
