@@ -1,6 +1,4 @@
-## Olá Eu me chamo Gabriel Carneiro 👋
-
-### 💻 About Me
+## Olá, me chamo Gabriel Carneiro 👋
 
 Sou desenvolvedor backend em formação, focado em **Java + Spring Boot**, com forte interesse em **arquitetura de microserviços**, APIs REST e sistemas escaláveis.
 
