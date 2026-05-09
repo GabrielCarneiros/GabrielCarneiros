@@ -14,7 +14,6 @@
 </p>
   <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-1f1f1f?style=for-the-badge"/>
-</p>
 
 ---
 
