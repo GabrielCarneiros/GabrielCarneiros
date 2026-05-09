@@ -1,19 +1,23 @@
 ## Hi there 👋 I'm Gabriel Carneiro
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <p align="left">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC%20Architecture-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-1f1f1f?style=for-the-badge"/>
+  <a href="www.linkedin.com/in/gabriel-carneiro-ba1a05288">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="https://github.com/GabrielCarneiros">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+Tecnologias
+---
+### 🌐 Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+### 💻 Back-end
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,postman,swagger)](https://skillicons.dev)
 ---
 
 ### 💻 About Me
