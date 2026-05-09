@@ -1,4 +1,4 @@
-## Olá 👋 Eu me chamo Gabriel Carneiro
+## Olá Eu me chamo Gabriel Carneiro 👋
 
 ### 💻 About Me
 
