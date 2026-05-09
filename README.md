@@ -22,10 +22,10 @@ Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### 💻 Back-end
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,postgres,swagger)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,postgres,mongodb,swagger,docker)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=idea,postman,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,git,postman,github)](https://skillicons.dev)
 ---
 
 ### 🚀 Tech Stack
