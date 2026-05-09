@@ -8,7 +8,7 @@ Estou construindo projetos reais para evoluir minhas habilidades e conquistar me
 
 ---
 <p align="left">
-  <a href="www.linkedin.com/in/gabriel-carneiro-ba1a05288">
+  <a href="https://www.linkedin.com/in/gabriel-carneiro-ba1a05288/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
